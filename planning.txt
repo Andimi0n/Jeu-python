@@ -1,0 +1,6 @@
+1) map : ok
+2) création catégorie item spé et item normaux : ok
+3) exp + lvl + loot : ok
+4) durabilité + nourriture + ...
+5) capacite
+6) ajouter différents types de monstres

@@ -1,0 +1,10 @@
+Dongeon :
+	Deplacement libre (pas de "tour par tour" -> tant qu'on appuie, le perso avance de par exemple 3px en 3px)
+	Cercle blanc autour du perso qui indique la portée de son arme
+	Pour tirer : maintenir clic gauche pour indiquer la direction et relacher pour tirer (tant que clic gauche est maintenu, la vitesse du perso diminue)
+
+Plaine :
+	Système de construction, élevage, plantation, endroit où l'on produit bcp d'argent
+
+Multijoueur :
+	Création système de classe, permettant de jouer à plusieurs. Mais, chaque classe reste très polyvalente, bien qu'elle soit spécialisée dans un domaine -> une classe spé heal doit qd mm être capable de soloter la plupart du jeu.

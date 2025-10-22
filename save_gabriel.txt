@@ -1,0 +1,8 @@
+961
+740
+3
+Pioche Pierre/Epée/Arc/Bandage/Fleches/Torche/Fleches/
+Carte/Marqueur/
+Pioche Pierre:1/Torche:23/Marqueur:6/Fleches:11/Arc:2/Bandage:8/Epée:3/Carte:1/
+False
+(0, 0)/(0, 1)/(0, 2)/(1, 0)/(1, 1)/
